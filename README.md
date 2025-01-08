@@ -4,8 +4,8 @@
 
 This repository contains two innovative projects showcasing skills in **Data Science** and **Robotics Development**:
 
-1. **COVID-19 Severity Tracking**: A data science project designed to predict the severity of COVID-19 outbreaks, enabling enhanced preventive actions.
-2. **DJI Robomaster Maze Coding**: A robotics coding project, creating a robotic maze-solving algorithm for OneArena 2024 using the DJI Robomaster app with DSP-based code.
+1. **COVID-19 Severity Tracking**: A data science project designed to predict the severity of COVID-19 outbreaks, enabling enhanced preventive actions.  
+2. **DJI Robomaster Maze Coding**: A robotics coding project, creating a robotic maze-solving algorithm for OneArena 2024 using the DJI Robomaster app with DSP-based code and custom hardware elements.
 
 ---
 
@@ -58,6 +58,16 @@ This project involves developing a robotic maze-solving algorithm using the **DJ
   - Integration with the DJI Robomaster App to run the maze-solving algorithm on physical robots.  
   - Ensures smooth and efficient robot movement through sensor data interpretation and motor control.  
 
+- **Automated Arduino-Driven Door**:  
+  - Created a sliding door system using 2 DC motors and wheels repurposed from toy cars.  
+  - The Arduino-based system automates door operations, adding an interactive element to the maze.  
+
+- **Maze Features**:  
+  - **Difficulty Levels**: Easy and hard routes provided for varied challenges.  
+  - **Maze Components**:  
+    - Circular paths, pacing zones, narrow turns, and disturbances.  
+    - Visual markers and lateral movement tasks for added complexity.  
+
 ### **Technical Highlights**
 - **DSP-Based Code**:  
   - Code optimized for real-time signal processing, ensuring fast and accurate navigation.  
@@ -68,6 +78,7 @@ This project involves developing a robotic maze-solving algorithm using the **DJ
 
 - **Technologies Used**:  
   - DJI Robomaster App for development and deployment.  
+  - Arduino for automated door mechanics.  
   - Python for algorithm prototyping and testing.  
 
 ---
@@ -81,4 +92,5 @@ This project involves developing a robotic maze-solving algorithm using the **DJ
   - Expand the maze-solving capabilities to include dynamic mazes or competitive elements.  
   - Integrate advanced features such as SLAM (Simultaneous Localization and Mapping).  
 
+---
 
