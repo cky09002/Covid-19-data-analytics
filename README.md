@@ -4,7 +4,7 @@
 
 This repository contains two innovative projects showcasing skills in **Data Science** and **Robotics Development**:
 
-1. **COVID-19 Severity Tracking**: A data science project designed to predict the severity of COVID-19 outbreaks, enabling enhanced preventive actions.  
+1. **COVID-19 Severity Tracking**: A data science project designed to predict the severity of COVID-19 outbreaks, enabling enhanced preventive actions. These ideas was proposed and polished in Y2 data analytics course presentation.
 2. **DJI Robomaster Maze Coding**: A robotics coding project, creating a robotic maze-solving algorithm for OneArena 2024, a Sinagapore National Competition for secondary school student using the DJI Robomaster app with DSP-based code and custom hardware elements to cultivate their robotic automation mindset.
 
 ---
@@ -36,7 +36,7 @@ This project focuses on predicting severe COVID-19 outbreaks by analyzing key da
 
 - **Technologies Used**:  
   - Python, Pandas, NumPy, Matplotlib, and Scikit-learn for data processing and modeling.  
-  - Streamlit for creating an interactive dashboard for stakeholders.
+  - Streamlit for creating an interactive dashboard for presentation
 
 ---
 
