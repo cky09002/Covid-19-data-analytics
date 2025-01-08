@@ -1,6 +1,4 @@
-Here's a draft README explanation for both projects, tailored for a GitHub repository:
 
----
 
 # **Projects Overview**
 
@@ -83,6 +81,4 @@ This project involves developing a robotic maze-solving algorithm using the **DJ
   - Expand the maze-solving capabilities to include dynamic mazes or competitive elements.  
   - Integrate advanced features such as SLAM (Simultaneous Localization and Mapping).  
 
----
 
-Feel free to adapt this content for your GitHub repository. Let me know if you'd like further customization or assistance!
